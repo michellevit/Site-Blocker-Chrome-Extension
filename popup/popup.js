@@ -80,9 +80,9 @@ function updateBlockedWebsitesSection() {
         const trashIcon = document.createElement("i");
         trashIcon.classList.add("fas", "fa-trash");
         trashIcon.setAttribute("id", index);
-        // Append the trash icon to the red button
+        // Append the trash icon to the delete button
         deleteButton.appendChild(trashIcon);
-        // Add onClick function to each deleteButton
+        // Add onClick function to each delete button
         deleteButton.addEventListener("click", unblockURL);
         // Append the red button to the websiteDiv
         websiteDiv.appendChild(deleteButton);
