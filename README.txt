@@ -27,7 +27,6 @@ This JavaScript Google Chrome browser extension allows you to input websites tha
 7) Find the folder with the unzipped folder, and select it (note: do not double-click/'Open' it, just select it) and click 'Select Folder'
 8) Make sure it is enabled (the switch is blue)
 9) Toggle the 'Developer mode' option (in the upper right corner) back to off
-10) Now you can delete the folder from your computer as it has been added to your browser and is no longer needed
 
 
 ----------
