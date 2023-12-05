@@ -21,7 +21,7 @@ This JavaScript Google Chrome browser extension allows you to input websites tha
 1) Open the repository on GitHub and click the green 'Code' button dropdown
 2) In the 'Local' tab, select the option to 'Download ZIP' and download it to your computer
 3) Unzip the folder
-4) In the Google Chrome browser, select the 'Extensions' option (puzzle icon beside URL bar), then click 'Manage Extensions'
+4) In the Google Chrome browser, select the 'Extensions' option ('...' drop-down menu and/or puzzle icon beside URL bar), then click 'Manage Extensions'
 5) Toggle the 'Developer mode' option (in the upper right corner) to on
 6) Select 'Load unpacked'
 7) Find the folder with the unzipped folder, and select it (note: do not double-click/'Open' it, just select it) and click 'Select Folder'
