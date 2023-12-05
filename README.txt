@@ -4,7 +4,7 @@ Project Title: Site Blocker Chrome Extension
 ----------
 Table of Contents: 
 1. Project Description
-2. How to Add The Extension to your Chrome Browser
+2. How to Add the Extension to Your Chrome Browser
 3. How to Use the Extension
 4. Credits
 
