@@ -23,7 +23,7 @@ This JavaScript Google Chrome browser extension allows you to input websites tha
 - In the Google Chrome browser, select the 'Extensions' option ('...' drop-down menu and/or puzzle icon beside URL bar), then click 'Manage Extensions'
 - Toggle the 'Developer mode' option (in the upper right corner) to on
 - Select 'Load unpacked'
-  - Find the folder with the unzipped folder, open it, then click 'Select Folder'
+  - Find the unzipped 'Site-Blocker-Chrome-Extension-master' folder and open it, then select/highlight the 'Site-Blocker-Chrome-Extension-master' folder and click the 'Select Folder' button
 - Make sure it is enabled (the switch is blue)
 - Toggle the 'Developer mode' option (in the upper right corner) back to off
 
