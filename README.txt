@@ -35,7 +35,7 @@ This JavaScript Google Chrome browser extension allows you to input websites tha
   * Optional: Click the pin icon to pin it to the browser
 - Add a website by entering input in the 'Add to Block List' input area, and select the 'Block' button
   * Note: websites should be entered in the format 'www.websitename.com' or 'websitename.com'
-- To delete a website from your blocked websites list, simply select the trash icon beside the URL you want to unblock
+- Delete a website from your blocked websites list by selecting the trash icon beside the URL you want to unblock
 
 
 ----------
