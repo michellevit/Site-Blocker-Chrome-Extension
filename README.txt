@@ -23,7 +23,7 @@ This JavaScript Google Chrome browser extension allows you to input websites tha
 - In the Google Chrome browser, select the 'Extensions' option ('...' drop-down menu and/or puzzle icon beside URL bar), then click 'Manage Extensions'
 - Toggle the 'Developer mode' option (in the upper right corner) to on
 - Select 'Load unpacked'
-  - Find the folder with the unzipped folder, and select it (note: do not double-click/'Open' it, just select it) and click 'Select Folder'
+  - Find the folder with the unzipped folder, open it, then click 'Select Folder'
 - Make sure it is enabled (the switch is blue)
 - Toggle the 'Developer mode' option (in the upper right corner) back to off
 
