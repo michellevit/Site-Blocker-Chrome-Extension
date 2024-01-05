@@ -31,7 +31,7 @@ This JavaScript Google Chrome browser extension allows you to input websites tha
 ----------
 3. How to Use the Extension: 
 
-- Select the 'Extensions' puzzle icon again, and click 'SiteBlocker'
+- Select the 'Extensions' puzzle icon and click 'SiteBlocker'
   * Optional: Click the pin icon to pin it to the browser
 - Add a website by entering input in the 'Add to Block List' input area, and select the 'Block' button
   * Note: websites should be entered in the format 'www.websitename.com' or 'websitename.com'
