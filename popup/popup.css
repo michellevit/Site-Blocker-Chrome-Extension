@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #fff;
+}
+#app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 300px;
+    height: 100%;
+}
+
+#header-container {
+    background-color: #174b42;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0;
+    font-family: 'Noto Serif', serif;
+}
+
+#content-container {
+    padding: 1rem 0;
+}
+
+section.header {
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: #174b42;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Noto Serif', serif;
+}
+
+h2 {
+    color: #174b42;
+    font-family: 'Noto Serif', serif;
+}
+
+.main {
+    margin: 1rem 0;
+}
+
+button {
+    border: 0;
+    padding: 0 0.5rem;
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.8rem;
+    transition: all 0.2s;
+    border-radius: 0;
+    display: inline-block;
+    height: 2rem;
+    vertical-align: top;
+    margin:0;
+    height: 30px;
+}
+
+button.block {
+    background: #e30202;
+}
+
+button.delete {
+    background: darkgrey;
+    color: white;
+}
+
+button.block:hover {
+    background: #9c0101;
+}
+
+button.delete:hover {
+    background: black;
+    color: white;
+}
+
+section.add-block, section.remove-block {
+    margin: 2.2rem 0;
+}
+
+input {
+    padding-left: 5px;
+    height: 30px;
+    margin: 0;
+    font-size: 0.8rem;
+    border-radius: 0px;
+    border-top: 0;
+    border-left: 0;
+    border-bottom: 1px solid darkgrey;
+    border-right: 0px;
+    display: inline-block;
+    vertical-align: top;
+    outline-width: 0;
+    width: 11rem; /* i.e. width (20 is default) */
+}
+
+.websiteDiv {
+    display: block;
+    height: 2rem;
+    margin: 0.5rem 0;
+    width: 13rem;
+    font-size: 0;
+}
+
+
+.websiteDivText {
+    padding-left: 5px;
+    padding-top: 6px;
+    height: 30px;
+    font-size: 0.8rem;
+    width: 11rem; 
+    display: inline-block;
+    border-bottom: 1px solid darkgrey;
+    vertical-align: middle;
+}
+
+.websiteDivText:hover {
+    padding-left: 5px;
+    padding-top: 6px;
+    height: 30px;
+    font-size: 0.8rem;
+    width: 11rem; 
+    display: inline-block;
+    background: #ffffff;
+    vertical-align: middle;
+}
+
+.nothingBlocked {
+    color: #174b42;
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  #blockedWebsitesDiv {
+    align-items: center;
+    height: 100%;
+}
