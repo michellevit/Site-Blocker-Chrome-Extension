@@ -13,6 +13,7 @@ A Google Chrome browser extension which allows users to add websites that they w
 ## Table of Contents 
 - [How To Add the Extension to the Chrome Browser](#how-to-add)
 - [How To Use the Extension](#how-to-use)
+- [To Do](#to-do)
 - [Credits](#credits)
 
 
@@ -33,6 +34,10 @@ A Google Chrome browser extension which allows users to add websites that they w
 - Add a website by entering input in the 'Add to Block List' input area, and select the 'Block' button
 - To delete a website from your blocked websites list, simply select the trash icon beside the URL you want to unblock
 *Note: websites should be entered in the format 'www.websitename.com' or 'websitename.com'
+
+
+## To Do<a name="to-do"></a>
+- Change favicon based on user's dark/light mode preference (white instead of green)
 
 
 ## Credits<a name="credits"></a>
