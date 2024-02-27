@@ -1,7 +1,7 @@
 # Site Blocker Chrome Extension
 
 
-![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
 
 
 A Google Chrome browser extension which allows users to add websites that they wish to block, for productivity or other reasons. Websites can be added and deleted, and are stored in the browser's memory.
