@@ -2,6 +2,7 @@
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f0db4f.svg)
+![Chrome](https://img.shields.io/badge/Browser-Chrome-277beb.svg)
 
 
 A Google Chrome browser extension which allows users to add websites that they wish to block, for productivity or other reasons. Websites can be added and deleted, and are stored in the browser's memory.
