@@ -12,10 +12,10 @@ A Google Chrome browser extension which allows users to add websites that they w
 
 
 ## 📚 Table of Contents 
-- [How To Add the Extension to the Chrome Browser](#how-to-add)
-- [How To Use the Extension](#how-to-use)
-- [To Do](#to-do)
-- [Credits](#credits)
+- [📥 How To Add the Extension to the Chrome Browser](#how-to-add)
+- [🖥️ How To Use the Extension](#how-to-use)
+- [🛠️ To Do](#to-do)
+- [❤️ Credits](#credits)
 
 
 ## 📥 How To Add the Extension to the Chrome Browser<a name="how-to-add"></a>
