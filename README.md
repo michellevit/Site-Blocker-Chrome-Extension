@@ -41,6 +41,7 @@ A Google Chrome browser extension which allows users to add websites that they w
 - Change favicon based on user's dark/light mode preference (white instead of green)
 - Add a pause option to blocked site
 - Add 'Are you sure you want to proceed' page to paused sites
+- Limit saved sites + ensure stroage is cleaned when site unblocked
 
 
 ## ❤️ Credits<a name="credits"></a>
